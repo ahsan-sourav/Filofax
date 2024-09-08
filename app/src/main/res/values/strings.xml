@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filofax</string>
+    <string name="filofax">Filofax</string>
+    <string name="search_notes">Search notes</string>
+    <string name="type_note_here">Type note here..</string>
+    <string name="options">Options</string>
+</resources>
