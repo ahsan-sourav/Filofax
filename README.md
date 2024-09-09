@@ -10,4 +10,5 @@ Features
 4 .Search, Update, Delete, and Add New Notes: Easily manage your notes with comprehensive CRUD (Create, Read, Update, Delete) functionality.
 5. Modern UI Design: Enjoy a clean and modern interface designed for a smooth user experience.
 6. Bottom Sheet Dialog: Interact with notes using an elegant and flexible bottom sheet dialog.
-7. Custom Popup Menu: Access additional options with a custom popup, including pin/unpin and delete actions.![Uploading studio64_FG39Jz99uy.gif…]()
+7. Custom Popup Menu: Access additional options with a custom popup.
+![studio64_FG39Jz99uy](https://github.com/user-attachments/assets/98611c7e-6bb0-487a-b2f3-589cd9989fa3)
